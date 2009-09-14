@@ -1,0 +1,6 @@
+1. asenna maven2
+2. aja maven_archetype --> tekee helloworld esimerkin.
+
+cd helloworld
+
+mvn jetty:run
